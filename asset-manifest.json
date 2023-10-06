@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacthabit/static/css/main.3482e81a.css",
+    "main.js": "/reacthabit/static/js/main.c8765455.js",
+    "index.html": "/reacthabit/index.html",
+    "main.3482e81a.css.map": "/reacthabit/static/css/main.3482e81a.css.map",
+    "main.c8765455.js.map": "/reacthabit/static/js/main.c8765455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3482e81a.css",
+    "static/js/main.c8765455.js"
+  ]
+}
